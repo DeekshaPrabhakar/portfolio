@@ -13,7 +13,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn React
+                    Powered by React
                 </a>
             </header>
         </div>
